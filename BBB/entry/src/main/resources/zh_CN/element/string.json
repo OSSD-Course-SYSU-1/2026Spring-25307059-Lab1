@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CanvasComponent"
+    },
+    {
+      "name": "text_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "text_smile",
+      "value": "谢谢"
+    },
+    {
+      "name": "text_hamburger",
+      "value": "汉堡"
+    },
+    {
+      "name": "text_cake",
+      "value": "蛋糕"
+    },
+    {
+      "name": "text_watermelon",
+      "value": "西瓜"
+    },
+    {
+      "name": "prize_text_smile",
+      "value": "sorry，您没有中奖"
+    },
+    {
+      "name": "prize_text_hamburger",
+      "value": "恭喜您，抽中奖品汉堡"
+    },
+    {
+      "name": "prize_text_cake",
+      "value": "恭喜您，抽中奖品蛋糕"
+    },
+    {
+      "name": "prize_text_watermelon",
+      "value": "恭喜您，抽中奖品西瓜"
+    },
+    {
+      "name": "single_draw",
+      "value": "单抽"
+    },
+    {
+      "name": "ten_draw",
+      "value": "十连"
+    },
+    {
+      "name": "history",
+      "value": "历史"
+    },
+    {
+      "name": "statistics",
+      "value": "统计"
+    },
+    {
+      "name": "ten_draw_result",
+      "value": "十连抽结果"
+    },
+    {
+      "name": "draw_history",
+      "value": "抽奖历史"
+    },
+    {
+      "name": "no_history",
+      "value": "暂无抽奖记录"
+    },
+    {
+      "name": "draw_statistics",
+      "value": "抽奖统计"
+    },
+    {
+      "name": "pity_progress",
+      "value": "保底进度"
+    },
+    {
+      "name": "remaining_pity",
+      "value": "剩余"
+    },
+    {
+      "name": "total_draws",
+      "value": "总计"
+    },
+    {
+      "name": "single_draws",
+      "value": "单抽"
+    },
+    {
+      "name": "ten_draws",
+      "value": "十连"
+    },
+    {
+      "name": "draw_count",
+      "value": "抽奖次数"
+    },
+    {
+      "name": "prize_distribution",
+      "value": "奖品分布"
+    },
+    {
+      "name": "super_count",
+      "value": "超级"
+    },
+    {
+      "name": "high_count",
+      "value": "高级"
+    },
+    {
+      "name": "medium_count",
+      "value": "中级"
+    },
+    {
+      "name": "pity_counter",
+      "value": "保底"
+    }
+  ]
+}

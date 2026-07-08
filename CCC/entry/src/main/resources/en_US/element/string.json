@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CanvasComponent"
+    },
+    {
+      "name": "text_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "text_smile",
+      "value": "Thanks"
+    },
+    {
+      "name": "text_hamburger",
+      "value": "Burgers"
+    },
+    {
+      "name": "text_cake",
+      "value": "Cake"
+    },
+    {
+      "name": "text_watermelon",
+      "value": "Melon"
+    },
+    {
+      "name": "prize_text_smile",
+      "value": "Sorry, you didn't win the prize"
+    },
+    {
+      "name": "prize_text_hamburger",
+      "value": "Congratulations, you won the prize burger"
+    },
+    {
+      "name": "prize_text_cake",
+      "value": "Congratulations, you won the prize cake"
+    },
+    {
+      "name": "prize_text_watermelon",
+      "value": "Congratulations, you won the prize watermelon"
+    },
+    {
+      "name": "single_draw",
+      "value": "Single"
+    },
+    {
+      "name": "ten_draw",
+      "value": "Ten"
+    },
+    {
+      "name": "history",
+      "value": "History"
+    },
+    {
+      "name": "statistics",
+      "value": "Stats"
+    },
+    {
+      "name": "ten_draw_result",
+      "value": "Ten Draw Results"
+    },
+    {
+      "name": "draw_history",
+      "value": "Draw History"
+    },
+    {
+      "name": "no_history",
+      "value": "No draw history yet"
+    },
+    {
+      "name": "draw_statistics",
+      "value": "Draw Statistics"
+    },
+    {
+      "name": "pity_progress",
+      "value": "Pity Progress"
+    },
+    {
+      "name": "remaining_pity",
+      "value": "Remaining"
+    },
+    {
+      "name": "total_draws",
+      "value": "Total"
+    },
+    {
+      "name": "single_draws",
+      "value": "Single"
+    },
+    {
+      "name": "ten_draws",
+      "value": "Ten-Draws"
+    },
+    {
+      "name": "draw_count",
+      "value": "Draws"
+    },
+    {
+      "name": "prize_distribution",
+      "value": "Prize Distribution"
+    },
+    {
+      "name": "super_count",
+      "value": "Super"
+    },
+    {
+      "name": "high_count",
+      "value": "High"
+    },
+    {
+      "name": "medium_count",
+      "value": "Medium"
+    },
+    {
+      "name": "pity_counter",
+      "value": "Pity"
+    }
+  ]
+}
